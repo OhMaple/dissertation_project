@@ -8,9 +8,7 @@ The following is how the project is organised:
 
 ## Folders:
 
-Data: This folder contains 'Archive' which is the whole original dataset, 'Original COPD Dataset' which contains the COPD section of the dataset that was
-too sizeable to be implemented in full, and 'Final Dataset' which contains the final dataset that was used as input for both of the trained models. Each dataset
-is split into folders containing samples with the class that each sample belongs to.
+Data: Due to space restrictions, this file contains the altered COPD dataset. 
 
 Final Products: This folder contains the code used to produce the final trained models, with 'Respiratory CNN (1.0) - MFCC' being the notebook used to create
 the model trained on features extracted using Mels Frequency Cepstral-Coeffecient, 'Respiratory CNN (1.3.1) - ML' being the notebook used to create the
@@ -18,7 +16,7 @@ machine learning model trained on self-learnt features. 'MFCC Model' is the trai
 used in order to find the average number of files in each class folder, and randomly choose this amount of files from the COPD dataset, to create a new,
 smaller dataset.
 
-Previous Attempts: This folder contains previous data folders and previous notebooks created during the process of the project, that did not result in
+Previous Attempts: This folder contains previous previous notebooks created during the process of the project, that did not result in
 successful trained models.
 
 ---------------------------
