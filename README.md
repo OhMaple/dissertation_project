@@ -6,7 +6,7 @@ The following is how the project is organised:
 
 ---------------------------
 
-##Folders:
+## Folders:
 
 Data: This folder contains 'Archive' which is the whole original dataset, 'Original COPD Dataset' which contains the COPD section of the dataset that was
 too sizeable to be implemented in full, and 'Final Dataset' which contains the final dataset that was used as input for both of the trained models. Each dataset
@@ -23,7 +23,7 @@ successful trained models.
 
 ---------------------------
 
-##How to run the Models:
+## How to run the Models:
 
 - Install and set up an IDE that supports IPython Notebooks such as PyCharm or Jupyter Notebook, and a Python environment (such as Anaconda).
 - Open up the root folder of the project (the main folder containing all other folders including this text file) within your chosen IDE.
