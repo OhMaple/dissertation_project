@@ -12,9 +12,10 @@ Data: Due to space restrictions, this file contains the altered COPD dataset.
 
 Final Products: This folder contains the code used to produce the final trained models, with 'Respiratory CNN (1.0) - MFCC' being the notebook used to create
 the model trained on features extracted using Mels Frequency Cepstral-Coeffecient, 'Respiratory CNN (1.3.1) - ML' being the notebook used to create the
-machine learning model trained on self-learnt features. 'MFCC Model' is the trained model file for the MFCC notebook. Finally, 'Average Files' is the code
+machine learning model trained on self-learnt features. 'MFCC Model' is the trained model file for the MFCC notebook. 'Average Files' is the code
 used in order to find the average number of files in each class folder, and randomly choose this amount of files from the COPD dataset, to create a new,
 smaller dataset.
+Finally 'Final Gantt Chart' is a PNG file of the finalised Gantt Chart.
 
 Previous Attempts: This folder contains previous previous notebooks created during the process of the project, that did not result in
 successful trained models.
